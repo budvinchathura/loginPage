@@ -53,8 +53,8 @@ p{
 }
 
 .other a{
-    font-style: italic;
-    color: darkred;
+    font-style: bolder;
+    color: red;
     line-height: 20px;
     font-size: 12px;
 }
